@@ -8,3 +8,7 @@ now checkout dev
 *
 I just git a branch dev
 now I am going to commit 
+
+**
+I push the dev to github's dev 
+but I want to dev to master
