@@ -12,3 +12,8 @@ now I am going to commit
 **
 I push the dev to github's dev 
 but I want to dev to master
+
+***
+I just checkouted branch master from dev
+now I finish deal the bug in readme2
+it is time to check back to continue coding 
