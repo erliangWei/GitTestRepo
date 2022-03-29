@@ -21,3 +21,6 @@ now we are on the dev branch,
 ***
 yes I just checkout from master and I deal the bug 
 bug branch test is success
+
+
+**  this is a test ，and na maining
